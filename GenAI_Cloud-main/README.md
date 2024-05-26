@@ -1,0 +1,1 @@
+# Generative AI On Cloud (Azure And AWS)
