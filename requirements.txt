@@ -1,3 +1,4 @@
 boto3
 awscli
 langchain_community
+faiss-cpu
